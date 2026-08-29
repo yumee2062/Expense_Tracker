@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+button{
+  @apply bg-blue-500 px-3 py-5 text-white rounded-md hover:bg-blue-700 cursor-pointer 
+}
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f1f5f9;
+}
+
+.expense-list {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
