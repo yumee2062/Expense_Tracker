@@ -105,21 +105,25 @@ export default function Footer() {
                 href="#"
                 className=" bg-slate-800 flex items-center justify-center hover:bg-blue-300 transition"
               >
-                facebook
+                <img src="https://i.pinimg.com/1200x/7f/d0/28/7fd02899ef020aa171ac4d6813365763.jpg" alt="facebook logo"   className="w-5 h-5 object-contain"/>
               </a>
 
               <a
                 href="#"
-                className=" bg-slate-800 flex items-center justify-center hover:bg-pink-300 transition"
+                className=" bg-slate-800 flex items-center justify-center  "
               >
-                instagram
+                <img src="https://i.pinimg.com/1200x/ed/6c/9d/ed6c9d08f2994693188db9a5cfa6cca0.jpg" alt="instagram logo" className="w-5 h-5 object-contain" />
               </a>
 
               <a
                 href="#"
-                className=" bg-slate-800 flex items-center justify-center hover:bg-gray-500 transition"
+                className=" bg-slate-800 flex items-center justify-center "
               >
-                github
+              <img src="https://i.pinimg.com/1200x/c7/2b/4a/c72b4ac15c09be8ad85e748b82d73ede.jpg" alt="github logo" className="w-5 h-5 object-contain" />
+              </a>
+
+              <a href="#"  className=" bg-slate-800 flex items-center justify-center ">
+                <img src="https://i.pinimg.com/736x/d7/dd/f0/d7ddf0e936c39db320e15869d30eda95.jpg" alt="email" className="w-5 h-5 object-contain"/>
               </a>
 
             </div>
